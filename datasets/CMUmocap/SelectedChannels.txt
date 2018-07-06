@@ -1,0 +1,11 @@
+27 rhumerus X
+39 lhumerus X
+
+30 rradius X
+42 lradius X
+
+49 rfemur X
+56 lfemur X
+
+53 rfoot X
+60 lfoot X
